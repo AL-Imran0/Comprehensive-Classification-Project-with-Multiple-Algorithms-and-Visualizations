@@ -1,1 +1,1 @@
-# Comprehensive-Classification-Project-with-Multiple-Algorithms-and-Visualizations
+# Comprehensive-Classification-Project-with-Multiple-Algorithms-and-Visualizations(15 algorithms)
